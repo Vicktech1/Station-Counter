@@ -1,5 +1,6 @@
 body {
-    background-image: url("images/station.jpg");
+    margin: 10;
+    background-image: url("images/station count.jpg");
     background-size: cover;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
